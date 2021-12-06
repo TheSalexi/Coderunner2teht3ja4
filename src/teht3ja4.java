@@ -15,5 +15,11 @@ class Utils{
 		System.out.println("* OOP *");
 		System.out.println("*******");
 	}
+	
+	public static int areaCalc(int width, int lenght)
+	{
+	
+		return width*lenght;
+	}
 	 
 }
